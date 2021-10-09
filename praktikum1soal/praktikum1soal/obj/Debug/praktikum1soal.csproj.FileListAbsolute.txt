@@ -1,0 +1,10 @@
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\bin\Debug\praktikum1soal.exe.config
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\bin\Debug\praktikum1soal.exe
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\bin\Debug\praktikum1soal.pdb
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\obj\Debug\praktikum1soal.csproj.AssemblyReference.cache
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\obj\Debug\praktikum1soal.Form1.resources
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\obj\Debug\praktikum1soal.Properties.Resources.resources
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\obj\Debug\praktikum1soal.csproj.GenerateResource.cache
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\obj\Debug\praktikum1soal.csproj.CoreCompileInputs.cache
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\obj\Debug\praktikum1soal.exe
+C:\Users\Bluez\source\repos\praktikum1soal\praktikum1soal\obj\Debug\praktikum1soal.pdb
