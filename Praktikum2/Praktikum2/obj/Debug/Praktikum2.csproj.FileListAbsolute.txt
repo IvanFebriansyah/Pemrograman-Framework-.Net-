@@ -1,0 +1,31 @@
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\bin\Debug\Praktikum2.exe.config
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.csprojResolveAssemblyReference.cache
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.Form1.resources
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.Properties.Resources.resources
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.csproj.GenerateResource.Cache
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\bin\Debug\Praktikum2.exe
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\bin\Debug\Praktikum2.pdb
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.exe
+D:\Semester 5\.Net\Praktikum\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.pdb
+C:\Users\nizarafanibnu\Downloads\Compressed\Praktikum\Praktikum2\Praktikum2\bin\Debug\Praktikum2.exe.config
+C:\Users\nizarafanibnu\Downloads\Compressed\Praktikum\Praktikum2\Praktikum2\obj\Debug\Praktikum2.exe
+C:\Users\nizarafanibnu\Downloads\Compressed\Praktikum\Praktikum2\Praktikum2\obj\Debug\Praktikum2.pdb
+E:\Praktikum2\Praktikum2\bin\Debug\Praktikum2.exe.config
+E:\Praktikum2\Praktikum2\obj\Debug\Praktikum2.exe
+E:\Praktikum2\Praktikum2\obj\Debug\Praktikum2.pdb
+E:\Praktikum2\Praktikum2\bin\Debug\Praktikum2.exe
+E:\Praktikum2\Praktikum2\bin\Debug\Praktikum2.pdb
+E:\Praktikum2\Praktikum2\obj\Debug\Praktikum2.csprojResolveAssemblyReference.cache
+E:\Praktikum2\Praktikum2\obj\Debug\Praktikum2.Form1.resources
+E:\Praktikum2\Praktikum2\obj\Debug\Praktikum2.Properties.Resources.resources
+E:\Praktikum2\Praktikum2\obj\Debug\Praktikum2.csproj.GenerateResource.Cache
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\bin\Debug\Praktikum2.exe.config
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\bin\Debug\Praktikum2.exe
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\bin\Debug\Praktikum2.pdb
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.csproj.AssemblyReference.cache
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.Form1.resources
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.Properties.Resources.resources
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.csproj.GenerateResource.cache
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.csproj.CoreCompileInputs.cache
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.exe
+G:\Sekolah\SEMESTER 5\PSIFW017 Pemrograman Framework (.Net)\Praktikum2\Praktikum2\Praktikum2\obj\Debug\Praktikum2.pdb
